@@ -1,5 +1,7 @@
 # challenge_telecomX_analisis_evasion_clientes
 
+![insignia-finalizado_alura-latam](./insignia_alura-latam.webp)
+
 Análisis completo de la tasa de cancelación de clientes para la empresa "TelecomX". Incluye el procesamiento de datos, análisis exploratorio, modelado predictivo e interpretación de resultados. 
 
 # Objetivos
